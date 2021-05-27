@@ -1,3 +1,3 @@
-# my_todo_list
+# Task Up!
 
 A new Flutter application.
